@@ -1,0 +1,35 @@
+
+body {
+    background: rgb(15,32,208);
+background: linear-gradient(90deg, rgba(15,32,208,1) 0%, rgba(210,1,249,1) 50%, rgba(255,29,50,1) 100%);
+    
+}
+#div{
+ display: flex;  
+ flex-direction: column; 
+ align-items: center;
+ border-style: ridge;
+ border-width: 5px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#butt{
+    background: cyan;
+  border-radius: 8px;
+ width: 100px;
+ height: 50px;
+}
+#demo{
+    border-radius: 4px;
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+   }
+
+#text{
+    font-size: 25px;
+    color: black;
+}
+#answer{
+    color:black;
+
+}
